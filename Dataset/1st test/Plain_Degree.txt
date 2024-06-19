@@ -1,0 +1,10 @@
+1#How much are you interested in the science field?#Interested@3#Average@2#Not interested@1
+2#How often do you survey about science related topics?#Often@3#Sometimes@2#Never@1
+3#On the scale of 10 how much do you enjoy appliying science in our day to day life?#Very much@3#Average@2#Not much@1
+4#Are you interested in exploring new things?#Yes@3#Not sure@2#No@1
+5#How much would you rate your patience skill in a situation where you try but cant reach certain solution?#High patience level@3#Average patience level@2#Low patience level@1
+6#Do you enjoy working in lab?#Yes@3#Maybe@2#No@1
+7#Do you have knowledge about working in the lab?#Yes@3#A little@2#No@1
+8#Do you follow discipline in your daily life?#Yes@2#Maybe@1#No@1
+9#After reading the theory do you try to apply it in practical?#Yes@3#Maybe@2#No@1
+10#Are you passionate about making a difference through science?#Yes@3#Maybe@2#No@1

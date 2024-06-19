@@ -1,0 +1,10 @@
+﻿1#On a scale of 1 to 3, how interested are you in the hospitality industry, specifically hotel management?#Interested@3#Average@2#Not interested@1
+2#To what extent do you enjoy working with people and providing excellent customer service?#Interested@3#Average@2#Not interested@1
+3#Is it justifiable to overlook safety protocols or regulations to save time or money in hotel management?#Agree@1#Not sure@2#Disagree@3
+4#I agree that ethical decision-making is paramount when faced with challenging situations, such as handling sensitive guest issues or conflicts among staff.#Agree@3#Average@2#Disagree@1
+5#Is it ethical to exploit or mistreat employees, such as by paying below minimum wage or denying benefits?#Yes@1#Maybe@2#No@3
+6#Are you interested in cooking?#Yes@3#Not sure@2#No@1
+7#Are you interested in building a business?#Yes@3#Not sure@2#No@1
+8#Are you familiar with the hotel management course?#Yes@3#I am willing to @2#No@1
+9#Do you have any previous experience or knowledge about this course?#Yes@3#Maybe@2#No@1
+10#Are your taste buds working properly?#Yes@3#Dont know@2#No@1
